@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="blackBorder">
+        <item name="borderWidth">1dp</item>
+        <item name="strokeColor">@color/black</item>
+    </style>
+</resources>

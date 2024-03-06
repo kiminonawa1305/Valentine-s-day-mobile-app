@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Valentine</string>
+    <string name="east">east</string>
+    <string name="west">west</string>
+    <string name="south">south</string>
+    <string name="north">north</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_text">I LOVE YOU SO MUCH!</string>
+</resources>
